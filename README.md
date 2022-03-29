@@ -1,2 +1,1 @@
-My first readme
-My first directory
+this repo is for the alx SE task
